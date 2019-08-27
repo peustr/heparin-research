@@ -1,1 +1,7 @@
+numpy
+scipy
+sklearn
+joblib
 pandas
+matplotlib
+xgboost
